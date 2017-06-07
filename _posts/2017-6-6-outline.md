@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Outline
+title: Coder Skills
 ---
-
-Coder Skills
-============
 
 Be a better web developer
 -------------------------
